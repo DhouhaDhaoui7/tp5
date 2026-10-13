@@ -1,0 +1,20 @@
+table{
+  width: 70%;
+  margin: 30PX auto;
+  border-collapse:collapse;
+  font-family: Arial, sans-serif;
+  }
+  table,th,td{
+          border: 1px solide #333;
+}
+th{
+background-color: yellow;
+text-align: center;
+}
+th{
+ background-color: bisque;
+ color: white;
+}
+td:hover{
+ background-color: aqua;
+}

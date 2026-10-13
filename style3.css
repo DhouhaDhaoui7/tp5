@@ -1,0 +1,24 @@
+body{
+  font-family: Arial,sans-serif;
+  text-align: center;
+  background-color: blue;
+  padding:20px;
+}
+h1{
+color: blueviolet;
+}
+p{
+ font-size: 18px;
+ color: brown;
+}
+img{
+ width: 600px;
+ max-width: 100%;
+ height: auto;
+ border-radius: 15px;
+ bax-shadow:0  8px  20px  black;
+ 
+}
+image :hover{
+    transform: scale(1.05);
+}
